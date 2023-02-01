@@ -21,3 +21,5 @@
 <div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=fabricio-fn&show_icons=true&count_private=true&hide_border=true&title_color=0A6CE7FF&icon_color=0A6CE7FF&text_color=0A6CE7FF&bg_color=4F4D6351" alt="Fabricio Nascimento github stats" /> 
 </div>
+
+![Snake animation](https://github.com/fabricio-fn/fabricio-fn/blob/output/github-contribution-grid-snake.svg)
