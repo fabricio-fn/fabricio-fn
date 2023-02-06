@@ -27,4 +27,4 @@
 <div align="center">
   <p align="centre"><b>Visitors Count</p>  
   <p align="center"><img align="center" src="https://profile-counter.glitch.me/{fabricio-fn}/count.svg" /></p> 
-</div>
+</div> 
