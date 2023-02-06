@@ -14,7 +14,6 @@
 ### Studying
 <div style="display: inline_block"><br>
   <img align="center" alt="Logo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Logo-Js" height="30" width="40" src="https://www.lechateaudoleron.fr/wp-content/uploads/2020/05/facebooklogo.png">
 </div>
 
 ##
