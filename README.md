@@ -1,6 +1,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=0A6CE7&center=true&width=560&height=60&lines=Ol%C3%A1%2C+bem-vindo(a)+ao+meu+perfil" alt="Typing SVG" /></a>
 
-##
+## 
 
 ### Skills 
 <div style="display: inline_block"><br>
