@@ -1,11 +1,13 @@
-## Hello World
+<div align ="center">
+    <img alt="Bem-Vindo(a)" src="https://media.tenor.com/S5gJsF7DFdIAAAAd/bem-vindo.gif" width="100%" height="200px"/>
+</div>
 
-## Contact
+## Contato
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabr%C3%ADciofn/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fabriciocunha040@gmail.com)
 
-## Skills 
+## Conhecimentos
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -14,7 +16,7 @@
   
 </div>
 
-## Studying
+## Estudando
 <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 
 ##
