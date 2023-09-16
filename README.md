@@ -1,5 +1,5 @@
 <div align ="center">
-    <img alt="Bem-Vindo(a)" src="https://media.tenor.com/Z4qdmT3xzJ4AAAAd/welcome-server.gif" width="100%" height="250px"/>
+    <img alt="gif-welcome" src="https://media.tenor.com/lwZVWkVjG1YAAAAC/welcome.gif" width="100%" />
 </div>
 
 ## Contato
